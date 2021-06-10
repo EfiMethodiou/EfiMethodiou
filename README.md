@@ -28,12 +28,12 @@ My name is Efi Methodiou and I'm a web developer. I'm a Computer Engineering fro
 
 ---
 
-You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][2.2]][2].
+You can find me on [![Instagram][1.2]][1]  or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://github.com/EfiMethodiou/EfiMethodiou/blob/main/img/instagram_icon.png
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[1.2]: https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_16x16.png?_ga=2.127089354.675126098.1623357370-680018694.1623357370
+[2.2]: https://cdn.exclaimer.com/Handbook%20Images/linkedin-icon_16x16.png?_ga=2.94581467.675126098.1623357370-680018694.1623357370
 
 <!-- Links to your social media accounts -->
 
