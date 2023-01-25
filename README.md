@@ -1,7 +1,7 @@
 # [![efi walker header](https://raw.githubusercontent.com/EfiMethodiou/EfiMethodiou/main/img/header.png)](https://www.efimethodiou.com)
 
 ### Hey there 👋
-My name is Efi Methodiou and I'm a web developer. I'm a Computer Engineering from Greece and I'm currently living in Germany whilst I'm doing an internship in Berlin.
+My name is Efi Methodiou, I'm a web developer from Greece. I studied Software Engineering and I'm working as a Junior Web Developer in the Netherlands.
 
 ---
 
